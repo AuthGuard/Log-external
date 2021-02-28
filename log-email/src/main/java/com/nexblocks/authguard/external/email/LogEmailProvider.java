@@ -1,4 +1,4 @@
-package com.authguard.external.email;
+package com.nexblocks.authguard.external.email;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
